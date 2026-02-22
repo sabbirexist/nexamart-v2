@@ -1,0 +1,4 @@
+project_id = "ughelpjolroldzpjnrbb"
+
+[functions.setup-database]
+verify_jwt = false
